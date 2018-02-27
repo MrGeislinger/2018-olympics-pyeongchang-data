@@ -1,0 +1,16 @@
+code_id,name,img,schedule
+ALP,alpine-skiing,https://www.olympic.org/pyeongchang-2018/results/resOWG2018/img/sports/ALP.png,https://www.olympic.org/pyeongchang-2018/results/en/alpine-skiing/daily-schedule.htm
+BTH,biathlon,https://www.olympic.org/pyeongchang-2018/results/resOWG2018/img/sports/BTH.png,https://www.olympic.org/pyeongchang-2018/results/en/biathlon/daily-schedule.htm
+BOB,bobsleigh,https://www.olympic.org/pyeongchang-2018/results/resOWG2018/img/sports/BOB.png,https://www.olympic.org/pyeongchang-2018/results/en/bobsleigh/daily-schedule.htm
+CCS,cross-country-skiing,https://www.olympic.org/pyeongchang-2018/results/resOWG2018/img/sports/CCS.png,https://www.olympic.org/pyeongchang-2018/results/en/cross-country-skiing/daily-schedule.htm
+CUR,curling,https://www.olympic.org/pyeongchang-2018/results/resOWG2018/img/sports/CUR.png,https://www.olympic.org/pyeongchang-2018/results/en/curling/daily-schedule.htm
+FSK,figure-skating,https://www.olympic.org/pyeongchang-2018/results/resOWG2018/img/sports/FSK.png,https://www.olympic.org/pyeongchang-2018/results/en/figure-skating/daily-schedule.htm
+FRS,freestyle-skiing,https://www.olympic.org/pyeongchang-2018/results/resOWG2018/img/sports/FRS.png,https://www.olympic.org/pyeongchang-2018/results/en/freestyle-skiing/daily-schedule.htm
+IHO,ice-hockey,https://www.olympic.org/pyeongchang-2018/results/resOWG2018/img/sports/IHO.png,https://www.olympic.org/pyeongchang-2018/results/en/ice-hockey/daily-schedule.htm
+LUG,luge,https://www.olympic.org/pyeongchang-2018/results/resOWG2018/img/sports/LUG.png,https://www.olympic.org/pyeongchang-2018/results/en/luge/daily-schedule.htm
+NCB,nordic-combined,https://www.olympic.org/pyeongchang-2018/results/resOWG2018/img/sports/NCB.png,https://www.olympic.org/pyeongchang-2018/results/en/nordic-combined/daily-schedule.htm
+STK,short-track-speed-skating,https://www.olympic.org/pyeongchang-2018/results/resOWG2018/img/sports/STK.png,https://www.olympic.org/pyeongchang-2018/results/en/short-track-speed-skating/daily-schedule.htm
+SKN,skeleton,https://www.olympic.org/pyeongchang-2018/results/resOWG2018/img/sports/SKN.png,https://www.olympic.org/pyeongchang-2018/results/en/skeleton/daily-schedule.htm
+SJP,ski-jumping,https://www.olympic.org/pyeongchang-2018/results/resOWG2018/img/sports/SJP.png,https://www.olympic.org/pyeongchang-2018/results/en/ski-jumping/daily-schedule.htm
+SBD,snowboard,https://www.olympic.org/pyeongchang-2018/results/resOWG2018/img/sports/SBD.png,https://www.olympic.org/pyeongchang-2018/results/en/snowboard/daily-schedule.htm
+SSK,speed-skating,https://www.olympic.org/pyeongchang-2018/results/resOWG2018/img/sports/SSK.png,https://www.olympic.org/pyeongchang-2018/results/en/speed-skating/daily-schedule.htm
