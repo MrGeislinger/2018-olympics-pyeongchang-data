@@ -1,0 +1,103 @@
+id,name,sport_id,sex,page
+alpine-skiing-mens-downhill,Menâs Downhill,alpine-skiing,men,https://www.olympic.org/pyeongchang-2018/alpine-skiing/mens-downhill
+alpine-skiing-mens-slalom,Menâs Slalom,alpine-skiing,men,https://www.olympic.org/pyeongchang-2018/alpine-skiing/mens-slalom
+alpine-skiing-mens-alpine-combined,Menâs Alpine Combined,alpine-skiing,men,https://www.olympic.org/pyeongchang-2018/alpine-skiing/mens-alpine-combined
+alpine-skiing-mens-super-g,Menâs Super-G,alpine-skiing,men,https://www.olympic.org/pyeongchang-2018/alpine-skiing/mens-super-g
+alpine-skiing-mens-giant-slalom,Menâs Giant Slalom,alpine-skiing,men,https://www.olympic.org/pyeongchang-2018/alpine-skiing/mens-giant-slalom
+alpine-skiing-mixed-alpine-team-event,Alpine Team Event,alpine-skiing,mixed,https://www.olympic.org/pyeongchang-2018/alpine-skiing/mixed-alpine-team-event
+alpine-skiing-ladies-downhill,Ladiesâ Downhill,alpine-skiing,women,https://www.olympic.org/pyeongchang-2018/alpine-skiing/ladies-downhill
+alpine-skiing-ladies-super-g,Ladiesâ Super-G,alpine-skiing,women,https://www.olympic.org/pyeongchang-2018/alpine-skiing/ladies-super-g
+alpine-skiing-ladies-slalom,Ladiesâ Slalom,alpine-skiing,women,https://www.olympic.org/pyeongchang-2018/alpine-skiing/ladies-slalom
+alpine-skiing-ladies-alpine-combined,Ladiesâ Alpine Combined,alpine-skiing,women,https://www.olympic.org/pyeongchang-2018/alpine-skiing/ladies-alpine-combined
+alpine-skiing-ladies-giant-slalom,Ladiesâ Giant Slalom,alpine-skiing,women,https://www.olympic.org/pyeongchang-2018/alpine-skiing/ladies-giant-slalom
+biathlon-mens-10km-sprint,Menâs 10km Sprint,biathlon,men,https://www.olympic.org/pyeongchang-2018/biathlon/mens-10km-sprint
+biathlon-mens-12-5km-pursuit,Menâs 12.5km Pursuit,biathlon,men,https://www.olympic.org/pyeongchang-2018/biathlon/mens-12-5km-pursuit
+biathlon-mens-20km-individual,Menâs 20km Individual,biathlon,men,https://www.olympic.org/pyeongchang-2018/biathlon/mens-20km-individual
+biathlon-mens-4x7-5km-relay,Menâs 4x7.5km Relay,biathlon,men,https://www.olympic.org/pyeongchang-2018/biathlon/mens-4x7-5km-relay
+biathlon-mens-15km-mass-start,Menâs 15km Mass Start,biathlon,men,https://www.olympic.org/pyeongchang-2018/biathlon/mens-15km-mass-start
+biathlon-2x6km-women-2x7-5km-men-mixed-relay,2x6km Women + 2x7.5km Men Mixed Relay,biathlon,mixed,https://www.olympic.org/pyeongchang-2018/biathlon/2x6km-women-2x7-5km-men-mixed-relay
+biathlon-womens-4x6km-relay,Womenâs 4x6km Relay,biathlon,women,https://www.olympic.org/pyeongchang-2018/biathlon/womens-4x6km-relay
+biathlon-womens-10km-pursuit,Womenâs 10km Pursuit,biathlon,women,https://www.olympic.org/pyeongchang-2018/biathlon/womens-10km-pursuit
+biathlon-womens-12-5km-mass-start,Womenâs 12.5km Mass Start,biathlon,women,https://www.olympic.org/pyeongchang-2018/biathlon/womens-12-5km-mass-start
+biathlon-womens-15km-individual,Womenâs 15km Individual,biathlon,women,https://www.olympic.org/pyeongchang-2018/biathlon/womens-15km-individual
+biathlon-womens-7-5km-sprint,Womenâs 7.5km Sprint,biathlon,women,https://www.olympic.org/pyeongchang-2018/biathlon/womens-7-5km-sprint
+bobsleigh-mens-two-man,Two-man,bobsleigh,mixed,https://www.olympic.org/pyeongchang-2018/bobsleigh/mens-two-man
+bobsleigh-open-four-man,Four-man,bobsleigh,men,https://www.olympic.org/pyeongchang-2018/bobsleigh/open-four-man
+bobsleigh-womens-bobsleigh,Womenâs Bobsleigh,bobsleigh,women,https://www.olympic.org/pyeongchang-2018/bobsleigh/womens-bobsleigh
+cross-country-skiing-mens-4x10km-relay,Menâs 4x10km Relay,cross-country-skiing,men,https://www.olympic.org/pyeongchang-2018/cross-country-skiing/mens-4x10km-relay
+cross-country-skiing-mens-sprint-classic,Menâs Sprint Classic,cross-country-skiing,men,https://www.olympic.org/pyeongchang-2018/cross-country-skiing/mens-sprint-classic
+cross-country-skiing-mens-50km-mass-start-classic,Menâs 50km Mass Start Classic,cross-country-skiing,men,https://www.olympic.org/pyeongchang-2018/cross-country-skiing/mens-50km-mass-start-classic
+cross-country-skiing-mens-15km-15km-skiathlon,Menâs 15km+15km Skiathlon,cross-country-skiing,men,https://www.olympic.org/pyeongchang-2018/cross-country-skiing/mens-15km-15km-skiathlon
+cross-country-skiing-mens-15km-free,Menâs 15km Free,cross-country-skiing,men,https://www.olympic.org/pyeongchang-2018/cross-country-skiing/mens-15km-free
+cross-country-skiing-mens-team-sprint-free,Menâs Team Sprint Free,cross-country-skiing,men,https://www.olympic.org/pyeongchang-2018/cross-country-skiing/mens-team-sprint-free
+cross-country-skiing-ladies-sprint-classic,Ladiesâ Sprint Classic,cross-country-skiing,women,https://www.olympic.org/pyeongchang-2018/cross-country-skiing/ladies-sprint-classic
+cross-country-skiing-ladies-30km-mass-start-classic,Ladiesâ 30km Mass Start Classic,cross-country-skiing,women,https://www.olympic.org/pyeongchang-2018/cross-country-skiing/ladies-30km-mass-start-classic
+cross-country-skiing-ladies-team-sprint-free,Ladiesâ Team Sprint Free,cross-country-skiing,women,https://www.olympic.org/pyeongchang-2018/cross-country-skiing/ladies-team-sprint-free
+cross-country-skiing-ladies-4x5km-relay,Ladiesâ 4x5km Relay,cross-country-skiing,women,https://www.olympic.org/pyeongchang-2018/cross-country-skiing/ladies-4x5km-relay
+cross-country-skiing-ladies-7-5km-7-5km-skiathlon,Ladiesâ 7.5km+7.5km Skiathlon,cross-country-skiing,women,https://www.olympic.org/pyeongchang-2018/cross-country-skiing/ladies-7-5km-7-5km-skiathlon
+cross-country-skiing-ladies-10km-free,Ladiesâ 10km Free,cross-country-skiing,women,https://www.olympic.org/pyeongchang-2018/cross-country-skiing/ladies-10km-free
+curling-men,Men,curling,men,https://www.olympic.org/pyeongchang-2018/curling/men
+curling-mixed-doubles,Mixed Doubles,curling,mixed,https://www.olympic.org/pyeongchang-2018/curling/mixed-doubles
+curling-women,Women,curling,women,https://www.olympic.org/pyeongchang-2018/curling/women
+figure-skating-mens-single-skating,Men's Single Skating,figure-skating,men,https://www.olympic.org/pyeongchang-2018/figure-skating/mens-single-skating
+figure-skating-mixed-team-event,Team event,figure-skating,mixed,https://www.olympic.org/pyeongchang-2018/figure-skating/mixed-team-event
+figure-skating-mixed-ice-dancing,Ice Dance,figure-skating,mixed,https://www.olympic.org/pyeongchang-2018/figure-skating/mixed-ice-dancing
+figure-skating-ladies-single-skating,Ladies' Single Skating,figure-skating,women,https://www.olympic.org/pyeongchang-2018/figure-skating/ladies-single-skating
+figure-skating-mixed-pair-skating,Pair Skating,figure-skating,mixed,https://www.olympic.org/pyeongchang-2018/figure-skating/mixed-pair-skating
+freestyle-skiing-mens-ski-halfpipe,Menâs Ski Halfpipe,freestyle-skiing,men,https://www.olympic.org/pyeongchang-2018/freestyle-skiing/mens-ski-halfpipe
+freestyle-skiing-mens-ski-cross,Menâs Ski Cross,freestyle-skiing,men,https://www.olympic.org/pyeongchang-2018/freestyle-skiing/mens-ski-cross
+freestyle-skiing-mens-ski-slopestyle,Menâs Ski Slopestyle,freestyle-skiing,men,https://www.olympic.org/pyeongchang-2018/freestyle-skiing/mens-ski-slopestyle
+freestyle-skiing-mens-moguls,Menâs Moguls,freestyle-skiing,men,https://www.olympic.org/pyeongchang-2018/freestyle-skiing/mens-moguls
+freestyle-skiing-mens-aerials,Menâs Aerials,freestyle-skiing,men,https://www.olympic.org/pyeongchang-2018/freestyle-skiing/mens-aerials
+freestyle-skiing-ladies-ski-halfpipe,Ladiesâ Ski Halfpipe,freestyle-skiing,women,https://www.olympic.org/pyeongchang-2018/freestyle-skiing/ladies-ski-halfpipe
+freestyle-skiing-ladies-aerials,Ladiesâ Aerials,freestyle-skiing,women,https://www.olympic.org/pyeongchang-2018/freestyle-skiing/ladies-aerials
+freestyle-skiing-ladies-ski-cross,Ladiesâ Ski Cross,freestyle-skiing,women,https://www.olympic.org/pyeongchang-2018/freestyle-skiing/ladies-ski-cross
+freestyle-skiing-ladies-moguls,Ladiesâ Moguls,freestyle-skiing,women,https://www.olympic.org/pyeongchang-2018/freestyle-skiing/ladies-moguls
+freestyle-skiing-ladies-ski-slopestyle,Ladiesâ Ski Slopestyle,freestyle-skiing,women,https://www.olympic.org/pyeongchang-2018/freestyle-skiing/ladies-ski-slopestyle
+ice-hockey-men,Men,ice-hockey,men,https://www.olympic.org/pyeongchang-2018/ice-hockey/men
+ice-hockey-women,Women,ice-hockey,women,https://www.olympic.org/pyeongchang-2018/ice-hockey/women
+luge-mens-singles,Menâs Singles,luge,men,https://www.olympic.org/pyeongchang-2018/luge/mens-singles
+luge-open-doubles,Doubles,luge,mixed,https://www.olympic.org/pyeongchang-2018/luge/open-doubles
+luge-womens-singles,Womenâs Singles,luge,women,https://www.olympic.org/pyeongchang-2018/luge/womens-singles
+luge-mixed-team-relay,Team Relay,luge,mixed,https://www.olympic.org/pyeongchang-2018/luge/mixed-team-relay
+nordic-combined-mens-individual-gundersen-nh-10km,Individual Gundersen Normal Hill/10km,nordic-combined,mixed,https://www.olympic.org/pyeongchang-2018/nordic-combined/mens-individual-gundersen-nh-10km
+nordic-combined-mens-team-gundersen-lh-4x5km,Team Gundersen Large Hill/4x5km,nordic-combined,mixed,https://www.olympic.org/pyeongchang-2018/nordic-combined/mens-team-gundersen-lh-4x5km
+nordic-combined-mens-individual-gundersen-lh-10km,Individual Gundersen Large Hill/10km,nordic-combined,mixed,https://www.olympic.org/pyeongchang-2018/nordic-combined/mens-individual-gundersen-lh-10km
+short-track-mens-500m,Menâs 500m,short-track,men,https://www.olympic.org/pyeongchang-2018/short-track/mens-500m
+short-track-mens-5000m-relay,Menâs 5000m Relay,short-track,men,https://www.olympic.org/pyeongchang-2018/short-track/mens-5000m-relay
+short-track-mens-1500m,Menâs 1500m,short-track,men,https://www.olympic.org/pyeongchang-2018/short-track/mens-1500m
+short-track-mens-1000m,Menâs 1000m,short-track,men,https://www.olympic.org/pyeongchang-2018/short-track/mens-1000m
+short-track-ladies-1000m,Ladiesâ 1000m,short-track,women,https://www.olympic.org/pyeongchang-2018/short-track/ladies-1000m
+short-track-ladies-1500m,Ladiesâ 1500m,short-track,women,https://www.olympic.org/pyeongchang-2018/short-track/ladies-1500m
+short-track-ladies-500m,Ladiesâ 500m,short-track,women,https://www.olympic.org/pyeongchang-2018/short-track/ladies-500m
+short-track-ladies-3000m-relay,Ladiesâ 3000m Relay,short-track,women,https://www.olympic.org/pyeongchang-2018/short-track/ladies-3000m-relay
+skeleton-men,Men,skeleton,men,https://www.olympic.org/pyeongchang-2018/skeleton/men
+skeleton-women,Women,skeleton,women,https://www.olympic.org/pyeongchang-2018/skeleton/women
+ski-jumping-mens-team,Menâs Team,ski-jumping,men,https://www.olympic.org/pyeongchang-2018/ski-jumping/mens-team
+ski-jumping-mens-large-hill-individual,Menâs Large Hill Individual,ski-jumping,men,https://www.olympic.org/pyeongchang-2018/ski-jumping/mens-large-hill-individual
+ski-jumping-ladies-normal-hill-individual,Ladiesâ Normal Hill Individual,ski-jumping,women,https://www.olympic.org/pyeongchang-2018/ski-jumping/ladies-normal-hill-individual
+ski-jumping-mens-normal-hill-individual,Menâs Normal Hill Individual,ski-jumping,men,https://www.olympic.org/pyeongchang-2018/ski-jumping/mens-normal-hill-individual
+snowboard-mens-slopestyle,Menâs Slopestyle,snowboard,men,https://www.olympic.org/pyeongchang-2018/snowboard/mens-slopestyle
+snowboard-mens-big-air,Menâs Big Air,snowboard,men,https://www.olympic.org/pyeongchang-2018/snowboard/mens-big-air
+snowboard-mens-parallel-giant-slalom,Menâs Parallel Giant Slalom,snowboard,men,https://www.olympic.org/pyeongchang-2018/snowboard/mens-parallel-giant-slalom
+snowboard-mens-snowboard-cross,Menâs Snowboard Cross,snowboard,men,https://www.olympic.org/pyeongchang-2018/snowboard/mens-snowboard-cross
+snowboard-mens-halfpipe,Menâs Halfpipe,snowboard,men,https://www.olympic.org/pyeongchang-2018/snowboard/mens-halfpipe
+snowboard-ladies-slopestyle,Ladiesâ Slopestyle,snowboard,women,https://www.olympic.org/pyeongchang-2018/snowboard/ladies-slopestyle
+snowboard-ladies-snowboard-cross,Ladiesâ Snowboard Cross,snowboard,women,https://www.olympic.org/pyeongchang-2018/snowboard/ladies-snowboard-cross
+snowboard-ladies-parallel-giant-slalom,Ladiesâ Parallel Giant Slalom,snowboard,women,https://www.olympic.org/pyeongchang-2018/snowboard/ladies-parallel-giant-slalom
+snowboard-ladies-big-air,Ladiesâ Big Air,snowboard,women,https://www.olympic.org/pyeongchang-2018/snowboard/ladies-big-air
+snowboard-ladies-halfpipe,Ladiesâ Halfpipe,snowboard,women,https://www.olympic.org/pyeongchang-2018/snowboard/ladies-halfpipe
+speed-skating-mens-1500m,Menâs 1500m,speed-skating,men,https://www.olympic.org/pyeongchang-2018/speed-skating/mens-1500m
+speed-skating-mens-1000m,Menâs 1000m,speed-skating,men,https://www.olympic.org/pyeongchang-2018/speed-skating/mens-1000m
+speed-skating-mens-5000m,Menâs 5000m,speed-skating,men,https://www.olympic.org/pyeongchang-2018/speed-skating/mens-5000m
+speed-skating-mens-mass-start,Menâs Mass Start,speed-skating,men,https://www.olympic.org/pyeongchang-2018/speed-skating/mens-mass-start
+speed-skating-mens-500m,Menâs 500m,speed-skating,men,https://www.olympic.org/pyeongchang-2018/speed-skating/mens-500m
+speed-skating-mens-10000m,Menâs 10000m,speed-skating,men,https://www.olympic.org/pyeongchang-2018/speed-skating/mens-10000m
+speed-skating-mens-team-pursuit,Menâs Team Pursuit,speed-skating,men,https://www.olympic.org/pyeongchang-2018/speed-skating/mens-team-pursuit
+speed-skating-ladies-1000m,Ladiesâ 1000m,speed-skating,women,https://www.olympic.org/pyeongchang-2018/speed-skating/ladies-1000m
+speed-skating-ladies-3000m,Ladiesâ 3000m,speed-skating,women,https://www.olympic.org/pyeongchang-2018/speed-skating/ladies-3000m
+speed-skating-ladies-mass-start,Ladiesâ Mass Start,speed-skating,women,https://www.olympic.org/pyeongchang-2018/speed-skating/ladies-mass-start
+speed-skating-ladies-team-pursuit-women,Ladiesâ Team Pursuit,speed-skating,mixed,https://www.olympic.org/pyeongchang-2018/speed-skating/ladies-team-pursuit-women
+speed-skating-ladies-5000m,Ladiesâ 5000m,speed-skating,women,https://www.olympic.org/pyeongchang-2018/speed-skating/ladies-5000m
+speed-skating-ladies-1500m,Ladiesâ 1500m,speed-skating,women,https://www.olympic.org/pyeongchang-2018/speed-skating/ladies-1500m
+speed-skating-ladies-500m,Ladiesâ 500m,speed-skating,women,https://www.olympic.org/pyeongchang-2018/speed-skating/ladies-500m
